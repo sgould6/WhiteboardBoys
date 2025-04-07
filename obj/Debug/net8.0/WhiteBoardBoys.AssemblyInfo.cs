@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhiteBoardBoys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17e47efd9b8ece7004bf75cf133ae0becbcb96ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhiteBoardBoys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhiteBoardBoys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
