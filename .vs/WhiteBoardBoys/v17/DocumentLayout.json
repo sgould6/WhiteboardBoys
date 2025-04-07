@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{8EE1E9D7-3CA4-4EB3-A19F-536CF87AAC95}|WhiteBoardBoys.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8EE1E9D7-3CA4-4EB3-A19F-536CF87AAC95}|WhiteBoardBoys.csproj|c:\\users\\maima\\source\\repos\\whiteboardboys\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8EE1E9D7-3CA4-4EB3-A19F-536CF87AAC95}|WhiteBoardBoys.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EE1E9D7-3CA4-4EB3-A19F-536CF87AAC95}|WhiteBoardBoys.csproj|c:\\users\\maima\\source\\repos\\whiteboardboys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8EE1E9D7-3CA4-4EB3-A19F-536CF87AAC95}|WhiteBoardBoys.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\maima\\source\\repos\\WhiteBoardBoys\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\maima\\source\\repos\\WhiteBoardBoys\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-07T03:14:44.844Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,14 +53,14 @@
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\maima\\source\\repos\\WhiteBoardBoys\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-07T03:04:59.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maima\\source\\repos\\WhiteBoardBoys\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T02:55:55.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T02:55:55.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\maima\\source\\repos\\WhiteBoardBoys\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -64,20 +80,18 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-07T02:56:08.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T02:56:08.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WhiteBoardBoys",
               "DocumentMoniker": "C:\\Users\\maima\\source\\repos\\WhiteBoardBoys\\WhiteBoardBoys.csproj",
               "RelativeDocumentMoniker": "WhiteBoardBoys.csproj",
               "ToolTip": "C:\\Users\\maima\\source\\repos\\WhiteBoardBoys\\WhiteBoardBoys.csproj",
               "RelativeToolTip": "WhiteBoardBoys.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-07T02:56:05.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T02:56:05.504Z"
             }
           ]
         }
