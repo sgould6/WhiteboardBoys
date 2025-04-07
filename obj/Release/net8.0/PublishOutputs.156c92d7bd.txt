@@ -1,0 +1,7 @@
+C:\Users\maima\source\repos\WhiteBoardBoys\obj\Release\net8.0\PubTmp\Out\WhiteBoardBoys.exe
+C:\Users\maima\source\repos\WhiteBoardBoys\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\maima\source\repos\WhiteBoardBoys\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\maima\source\repos\WhiteBoardBoys\obj\Release\net8.0\PubTmp\Out\WhiteBoardBoys.dll
+C:\Users\maima\source\repos\WhiteBoardBoys\obj\Release\net8.0\PubTmp\Out\WhiteBoardBoys.deps.json
+C:\Users\maima\source\repos\WhiteBoardBoys\obj\Release\net8.0\PubTmp\Out\WhiteBoardBoys.runtimeconfig.json
+C:\Users\maima\source\repos\WhiteBoardBoys\obj\Release\net8.0\PubTmp\Out\WhiteBoardBoys.pdb
